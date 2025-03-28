@@ -1,5 +1,4 @@
 # TBaseballMultiGame
-TextBaseball MultiGame
 
 <div align = left>
   
