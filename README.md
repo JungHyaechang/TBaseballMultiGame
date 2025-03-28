@@ -26,6 +26,7 @@ TextBaseball MultiGame
 - Project : Baseball MultiGame Project
 - Duration : 2025.03.10 ~ 2025.03.28
 - GitHub : https://github.com/JungHyaechang/TBaseballMultiGame
+- YouTube : [https://github.com/JungHyaechang/TBaseballMultiGame ](https://www.youtube.com/watch?v=Jttnoeh8Wf8)
 - 정혜창 / [개발블로그](https://velog.io/@hch9097/posts)
 
 <br>
