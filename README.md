@@ -33,7 +33,6 @@ TextBaseball MultiGame
 
 ## Project Part Directory And Main Features <br>
 
-<details>
   GameMode
 
     | -- Source
@@ -57,7 +56,6 @@ TextBaseball MultiGame
    - Getter, Setter 함수를 적극 사용해 안정성을 높임
  - UI
    - 캡술화를 통해 Widget을 Component화(유지보수성 증가)
-</details>
 
 <br>
 
