@@ -28,7 +28,7 @@
 - Duration : 2025.03.10 ~ 2025.03.28
 - GitHub : https://github.com/JungHyaechang/TBaseballMultiGame
 - YouTube : https://www.youtube.com/watch?v=Jttnoeh8Wf8
-- 정혜창 / [개발블로그](https://velog.io/@hch9097/posts)
+- 정혜창 : https://velog.io/@hch9097/ScrollChat-C-Implement
 
 <br>
 
