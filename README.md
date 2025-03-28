@@ -49,12 +49,11 @@ TextBaseball MultiGame
             | -- ChatEntryWidget // 채팅 입력을 ScrollBox에 더해주는 Widget
           | -- ChatSystemWidget // 일반 채팅 제외, 공지같은 시스템 채팅을 ScrollBox에 나타나는 Widget
         
-### GameMode
- - C++ 라이브러리
-   - C++ 라이브러리를 통해 난수 생성, 실제 판정 로직 분리, 캡술화
-   - RPC와 Replecate를 활용한 Broadcast
-   - Getter, Setter 함수를 적극 사용해 안정성을 높임
- - UI
+- C++ 라이브러리
+  - C++ 라이브러리를 통해 난수 생성, 실제 판정 로직 분리, 캡술화
+  - RPC와 Replecate를 활용한 Broadcast
+  - Getter, Setter 함수를 적극 사용해 안정성을 높임
+- UI
    - 캡술화를 통해 Widget을 Component화(유지보수성 증가)
 
 <br>
