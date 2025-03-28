@@ -23,7 +23,7 @@
 
 <br>
 
-##프로젝트 소개
+## 프로젝트 소개
 - Project : Baseball MultiGame Project
 - Duration : 2025.03.10 ~ 2025.03.28
 - GitHub : https://github.com/JungHyaechang/TBaseballMultiGame
