@@ -34,7 +34,7 @@ TextBaseball MultiGame
 ## Project Part Directory And Main Features <br>
 
 <details>
-  <summary> GameMode </summary>
+  GameMode
 
     | -- Source
       | -- GameMode
