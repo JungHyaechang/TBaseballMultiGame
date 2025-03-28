@@ -13,6 +13,8 @@
 - 코드 가독성 및 확장성을 고려하여 작성
 - MultiNetWork를 활용한 Chat 멀티게임 구현
 - RPC, Replecate를 이용한 BroadCast
+- Blueprint를 활용한 MultiChat 구현, Blueprint설계를 기반으로 한 C++로직 설계
+  - ScrollChat Blueprint 설명 : https://velog.io/@hch9097/ScrollChat-BP-Implement 
 
 <br>
 
