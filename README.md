@@ -22,8 +22,8 @@ TextBaseball MultiGame
 
 <br>
 
-프로젝트 소개
-Project : Baseball MultiGame Project
-Duration : 2025.03.10 ~ 2025.03.28
-Wiki https://github.com/JungHyaechang/TBaseballMultiGame/wiki
-정혜창 / 개발블로그
+##프로젝트 소개
+- Project : Baseball MultiGame Project
+- Duration : 2025.03.10 ~ 2025.03.28
+- Wiki https://github.com/JungHyaechang/TBaseballMultiGame/wiki
+- 정혜창 / [개발블로그](https://velog.io/@hch9097/posts)
